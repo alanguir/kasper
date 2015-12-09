@@ -1,6 +1,8 @@
 ---
 layout: page
-title: About me 
+title: About Us
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+![Alan and Erika](/assets/images/alan_and_erika.jpg)
+
+Alan and Erika (and a wide array of friends) are pushing ahead to make this house livable by Sept 2016.
